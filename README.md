@@ -88,7 +88,8 @@ print(f"\nTest accuracy: {test_acc}")
 ### Model Accuracy
 This graph shows the training and validation accuracy over the epochs. The model's accuracy improves steadily, with the validation accuracy closely following the training accuracy.
 
-![Model Accuracy](mnt/data/Screenshot%202024-05-25%20at%2016.21.52.png)
+<img width="1200" alt="Screenshot 2024-05-25 at 16 21 52" src="https://github.com/mojibc1377/ML-model-train-evaluation-for-Image-classification/assets/82224660/c368cfdd-4dbf-4455-8cb9-19c2fd2aedd4">
+
 
 **Explanation**:
 - The x-axis represents the number of epochs.
@@ -99,7 +100,8 @@ This graph shows the training and validation accuracy over the epochs. The model
 ### Model Loss
 This graph shows the training and validation loss over the epochs. The model's loss decreases steadily, indicating that the model is learning and improving over time.
 
-![Model Loss](mnt/data/Screenshot%202024-05-25%20at%2016.22.01.png)
+<img width="1200" alt="Screenshot 2024-05-25 at 16 22 01" src="https://github.com/mojibc1377/ML-model-train-evaluation-for-Image-classification/assets/82224660/3878d68d-0bbd-4472-be6c-c407eef72d17">
+
 
 **Explanation**:
 - The x-axis represents the number of epochs.
