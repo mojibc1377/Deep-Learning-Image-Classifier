@@ -154,4 +154,3 @@ print(f'Predicted class: {class_names[predicted_class[0]]}')
 3. Run the Jupyter Notebook: `jupyter notebook image_classification_cifar10.ipynb`
 
 This project demonstrates the process of building, training, and evaluating a CNN for image classification on a well-known benchmark dataset.
-# ML-model-train-evaluation-for-Image-classification
